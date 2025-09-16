@@ -20,10 +20,11 @@ This is a Python project for staging uploads. It includes scripts and resources 
    ```
 
 ## Usage
-Run the main Python script:
+Run the main PHP script:
 ```cmd
-python src\stagingCreator.py
+php index.php
 ```
 
 ## Version Control
 This project is ready for Git. All unnecessary files are excluded via `.gitignore`.
+
