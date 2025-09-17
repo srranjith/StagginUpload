@@ -1,6 +1,0 @@
-python --version
-pip --version
-python -m pip install langchain
-
-
-pip install pandas python-dotenv langchain langchain-openai langchain-ollama
